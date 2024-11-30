@@ -1,0 +1,34 @@
+983
+Adding time and hash analysis:
+Linear probing had 284 hashes with runtime 224,800ns
+Quadratic probing had 281 hashes with runtime 103,100ns
+Double hashing had 284 hashes with runtime 597,800ns
+
+Retrieval time analysis:
+Linear probing retrieval time: 49,700ns
+Quadratic probing retrieval time: 38,800ns
+Double probing retrieval time: 169,100ns
+
+491
+Adding time and hash analysis:
+Linear probing had 365 hashes with runtime 89,400ns
+Quadratic probing had 377 hashes with runtime 78,600ns
+Double hashing had 347 hashes with runtime 176,200ns
+
+Retrieval time analysis:
+Linear probing retrieval time: 53,800ns
+Quadratic probing retrieval time: 42,500ns
+Double probing retrieval time: 204,500ns
+
+251
+Adding time and hash analysis:
+Linear probing had 693 hashes with runtime 85,400ns
+Quadratic probing had 589 hashes with runtime 96,400ns
+Double hashing had 583 hashes with runtime 178,800ns
+
+Retrieval time analysis:
+Linear probing retrieval time: 22,300ns
+Quadratic probing retrieval time: 27,900ns
+Double probing retrieval time: 54,700ns
+
+
